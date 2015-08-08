@@ -5,7 +5,7 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/me.jpg"
+  logo: "http://i.imgur.com/9imVtft.jpg"
   # author will appear under the avatar (optional)
   author: "Laurence Roland James"
   # tagline will appear under the title (optional)
